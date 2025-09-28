@@ -1,5 +1,5 @@
-package day3.Constructor;
 
+package day3.Constructor;
 import java.util.*;
 
 public class Constructordemo {
@@ -48,5 +48,3 @@ public class Constructordemo {
 	}
 
 }
-
-
