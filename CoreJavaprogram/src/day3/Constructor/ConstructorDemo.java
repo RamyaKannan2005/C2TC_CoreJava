@@ -1,8 +1,5 @@
-package day3.constructor;
-
-
+package day3.Constructor;
 import java.util.*;
-
 public class ConstructorDemo {
 
 		public static void main(String[] args) {
