@@ -1,4 +1,7 @@
-package com.tnsif.day19.v1;
+package com.tnsif.day19;
+
+
+
 
 public class WithoutLambdaExpr { 
 	  
